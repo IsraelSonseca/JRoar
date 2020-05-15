@@ -172,7 +172,7 @@ static String status="status0";
 	}
 	catch(Exception e){
 	  break;
-	}
+	}//testing sonar
       }
       if(ii>=files.length)ii=0;
 
