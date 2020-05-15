@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf93372b-61b2-4b62-928e-cdb366cb0b27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jogg/Buffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jogg/Packet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jogg/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jogg/StreamState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jogg/SyncState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/AllocChain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/ChainingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/CodeBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/DecodeAux.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/DecodeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Drft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/DspState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/EchstateFloor0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/EchstateFloor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/EncodeAuxNearestMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/EncodeAuxThreshMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Floor0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Floor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/FuncFloor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/FuncMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/FuncResidue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/FuncTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/InfoFloor0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/InfoFloor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/InfoMapping0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/InfoMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/InfoResidue0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/JOrbisException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/LookFloor0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/LookFloor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/LookMapping0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/LookResidue0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Lookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Lpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Lsfit_acc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Lsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Mapping0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Mdct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/PsyInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/PsyLook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Residue0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Residue1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Residue2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/StaticCodeBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/Time0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/VorbisFile$SeekableInputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/VorbisFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Ctrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Debug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Dispatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Drop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/HttpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/HttpServer$Spawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/HttpServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Ice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/JRoar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/JRoar$WatchDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/JRoar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/JRoarException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/M3u.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Mount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/MountPointListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/MySocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/PeerCast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/PlayFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Pls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Shout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/ShoutClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Stats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/UDPBroadcast$UDPIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/UDPBroadcast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/UDPPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/UDPSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/jcraft/jroar/UserPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/misc/BlankPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/misc/JOrbisPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/misc/PlayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/misc/RadioStudio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/misc/mplistener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/.idea/20E06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/ChangeLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/README.JOrbis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/com/jcraft/jorbis/VorbisFile.java.new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/out/out/out/out/out/misc/JRoar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/playlist/KAROL-G_-Nicki-Minaj-Tusa-_-Letra_.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/out/playlist/prueba.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/playlist/KAROL-G_-Nicki-Minaj-Tusa-_-Letra_.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/out/playlist/prueba.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/playlist/KAROL-G_-Nicki-Minaj-Tusa-_-Letra_.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/out/playlist/prueba.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/playlist/KAROL-G_-Nicki-Minaj-Tusa-_-Letra_.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/out/playlist/prueba.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/playlist/KAROL-G_-Nicki-Minaj-Tusa-_-Letra_.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/playlist/prueba.ogg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1atyE6e64MMIp1mWEqozcfE2fcI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JRoar" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.jcraft.jroar.JRoar" />
+      <module name="20E06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf93372b-61b2-4b62-928e-cdb366cb0b27" name="Default Changelist" comment="" />
+      <created>1587569070396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587569070396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="383" key="#Notifications" timestamp="1587569552869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1587569552869" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1587569391525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587569391525" />
+    <state x="447" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587768703902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587768703902" />
+    <state x="819" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587724849302" />
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587567963168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587567963168" />
+    <state x="592" y="207" key="FileChooserDialogImpl" timestamp="1587768752230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="207" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587768752230" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587570000280" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587768823652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587768823652" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587724859142" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587768823652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587768823652" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587724859142" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587768823651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587768823651" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587724859142" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587768823652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587768823652" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587724859142" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1587590048807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587590048807" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1587590048806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587590048806" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1587590048806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587590048806" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1587590048807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587590048807" />
+    <state x="207" y="0" key="SettingsEditor" timestamp="1587768849832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="207" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587768849832" />
+    <state x="259" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587725438847" />
+  </component>
+</project>
